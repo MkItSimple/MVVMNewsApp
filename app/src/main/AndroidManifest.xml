@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.mvvmnewsapp">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <!-- ttps://newsapi.org/-->
     <application
         android:allowBackup="true"
